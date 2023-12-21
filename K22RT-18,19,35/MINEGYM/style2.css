@@ -185,7 +185,7 @@ footer{
  
 .container {
 	padding: 0 16px;
-	color: #373D3F;
+	color: #56b2d1;
 }
 .container::after, .row::after {
 	content: "";
