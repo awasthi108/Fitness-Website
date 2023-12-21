@@ -22,6 +22,7 @@
   justify-content: center;
   scroll-behavior: smooth;
   align-items: center;
+  background-color: #1f1313;
 }
 .offer-row .offer-card {
   margin: 0 1rem;
@@ -62,6 +63,7 @@
   width: 40%;
   margin: 0 1rem;
   scroll-behavior: smooth;
+  
 }
 .about-card img {
   width: 100%;
